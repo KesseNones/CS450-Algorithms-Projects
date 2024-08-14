@@ -5,9 +5,13 @@
 ## Contents
 
 ### first_project
-This project is a matrix multiplier algorithm done as efficiently
+A matrix multiplier algorithm done as efficiently
 as possible.
+
 ### second_project
-This project invovled beating Rust's standard sorting function by 
+The project involved with beating Rust's standard sorting function by 
 creating a custom sorting function that utilized Counting Sort to
 vastly speed up sorting the high scores input data.
+
+### third_project
+An implementation of a Scapegoat Tree and AVL Tree using an arena as a quasi-heap, in order to speed the program up and get around Rust's ownership and borrowing rules. This was easily the hardest project to implement of the five.
