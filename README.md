@@ -7,4 +7,7 @@
 ### first_project
 This project is a matrix multiplier algorithm done as efficiently
 as possible.
-
+### second_project
+This project invovled beating Rust's standard sorting function by 
+creating a custom sorting function that utilized Counting Sort to
+vastly speed up sorting the high scores input data.
