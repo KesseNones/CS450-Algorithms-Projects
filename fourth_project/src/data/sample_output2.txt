@@ -1,0 +1,5 @@
+diamond-studded boxing gloves, 1, 2500
+grand piano, 119, 2499
+final weight: 120
+final value: 4999
+time taken in microseconds: 0.0

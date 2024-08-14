@@ -1,0 +1,108 @@
+1000
+stick;1;1
+brass leggings;10;1
+bronze leggings;5;2
+iron leggings;4;1
+honda fit;1000;10000
+motorcycle;400;3900
+moped;125;1200
+bicycle;25;225
+diamond ring;1;1000
+gold bracelet;2;500
+plate armor;51;490
+plate armor;51;490
+cool skateboard;8;100
+rusty mail leggings;10;2
+electric piano;110;1500
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;120;2499
+rusty mail leggings;10;2
+electric piano;110;1500
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;119;1000
+64 oz. growler of Louis XIV;60;600
+gold encrusted chalice;50;500
+gold encrusted chalice;50;500
+brass leggings;10;1
+bronze leggings;5;2
+iron leggings;4;1
+motorcycle;400;3900
+moped;125;1200
+bicycle;25;225
+diamond ring;1;1000
+gold bracelet;2;500
+plate armor;51;490
+plate armor;51;490
+cool skateboard;8;100
+rusty mail leggings;10;2
+electric piano;110;1500
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;120;2499
+rusty mail leggings;10;2
+electric piano;110;1000
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;119;1000
+64 oz. growler of Louis XIV;60;600
+gold encrusted chalice;50;500
+gold encrusted chalice;50;500
+brass leggings;10;1
+bronze leggings;5;2
+iron leggings;4;1
+honda fit;1000;10000
+motorcycle;400;3900
+moped;125;1200
+bicycle;25;225
+diamond ring;1;1000
+gold bracelet;2;500
+plate armor;51;490
+plate armor;51;490
+cool skateboard;8;100
+rusty mail leggings;10;2
+electric piano;110;1500
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;120;2499
+rusty mail leggings;10;2
+electric piano;110;1500
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;119;1000
+64 oz. growler of Louis XIV;60;600
+gold encrusted chalice;50;500
+ornate chalice;50;490
+brass leggings;10;1
+bronze leggings;5;2
+iron leggings;4;1
+motorcycle;400;3900
+moped;125;1200
+bicycle;25;225
+diamond ring;1;1000
+gold bracelet;2;500
+plate armor;51;490
+plate armor;51;490
+cool skateboard;8;100
+rusty mail leggings;10;2
+electric piano;110;1500
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;120;2499
+rusty mail leggings;10;2
+electric piano;110;1000
+battery-powered skateboard;4;100
+boxing gloves;1;50
+diamond-studded boxing gloves;1;2500
+grand piano;119;1000
+64 oz. growler of Louis XIV;60;600
+diamond chalice;50;5000
+gold encrusted chalice;50;500

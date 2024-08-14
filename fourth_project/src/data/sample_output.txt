@@ -1,0 +1,7 @@
+electric piano, 110, 1500
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+final weight: 116
+final value: 4150
+time taken in microseconds: 0.0

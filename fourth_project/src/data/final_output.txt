@@ -1,0 +1,49 @@
+stick, 1, 1
+bronze leggings, 5, 2
+diamond ring, 1, 1000
+gold bracelet, 2, 500
+cool skateboard, 8, 100
+electric piano, 110, 1500
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+grand piano, 120, 2499
+electric piano, 110, 1500
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+gold encrusted chalice, 50, 500
+diamond ring, 1, 1000
+gold bracelet, 2, 500
+cool skateboard, 8, 100
+electric piano, 110, 1500
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+grand piano, 120, 2499
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+diamond ring, 1, 1000
+gold bracelet, 2, 500
+cool skateboard, 8, 100
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+grand piano, 120, 2499
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+diamond ring, 1, 1000
+gold bracelet, 2, 500
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+grand piano, 120, 2499
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+diamond chalice, 50, 5000
+final weight: 1000
+final value: 47499
+time taken in microseconds: 368558.406829834

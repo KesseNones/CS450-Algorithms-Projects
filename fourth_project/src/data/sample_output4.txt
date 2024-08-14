@@ -1,0 +1,7 @@
+battery-powered skateboard, 4, 100
+boxing gloves, 1, 50
+diamond-studded boxing gloves, 1, 2500
+poker chip, 4, 100
+final weight: 10
+final value: 2750
+time taken in microseconds: 0.0

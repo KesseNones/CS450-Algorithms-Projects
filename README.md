@@ -15,3 +15,9 @@ vastly speed up sorting the high scores input data.
 
 ### third_project
 An implementation of a Scapegoat Tree and AVL Tree using an arena as a quasi-heap, in order to speed the program up and get around Rust's ownership and borrowing rules. This was easily the hardest project to implement of the five.
+
+### fourth_project
+An example of using dynamic programming to make the classic player knapsack problem get solved in linear time (O(n)).
+
+
+
