@@ -19,5 +19,8 @@ An implementation of a Scapegoat Tree and AVL Tree using an arena as a quasi-hea
 ### fourth_project
 An example of using dynamic programming to make the classic player knapsack problem get solved in linear time (O(n)).
 
+### fifth_project
+The project is an implementation of the A-Star graph searching algorithm.
+
 
 
