@@ -1,7 +1,12 @@
 # CS 450 Fall 2023 Algorithms Projects Implementations by Jesse Jones
 
 ## Overview
-	These are the projects I implemented in Fall of 2023 at university for my algorithms class. All projects are implemented in Rust and demonstrate my knowledge of Rust gained in making these projects.
+These are the projects I implemented in Fall of 2023 at university for my algorithms class. All projects are implemented in Rust and demonstrate my knowledge of Rust gained in making these projects.
+
+## Disclaimer
+It's not gauranteed these work on their own. Some fanagaling might be necessary to get them to run properly still, since it's been a bit since they were tried.
+Likely I'll fix this soon enough.
+
 ## Contents
 
 ### first_project
@@ -22,5 +27,6 @@ An example of using dynamic programming to make the classic player knapsack prob
 ### fifth_project
 The project is an implementation of the A-Star graph searching algorithm.
 
-
+## Conclusion
+While none of this is anything amazing, it is a good showcase of some work I've done with the Rust programming lanugage. 
 
